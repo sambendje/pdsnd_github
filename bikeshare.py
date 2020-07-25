@@ -222,11 +222,11 @@ def main():
         trip_duration_stats(df)
         user_stats(df,city)
 
-        print("Would you like to see 5 lines of data ? Enter yes or no ")
+        print("Would you like to see 10 lines of data ? Enter yes or no ")
         display_data = input()
         display_data = display_data.lower()
 
-        i = 5
+        i = 10
         while display_data != 'yes':
             break
             """ Display 5 lines of raw data for the user"""
@@ -252,7 +252,7 @@ def main():
         display_data = display_data.lower()
         print("Would you like to see 5 more lines of data ? Enter yes or no ")
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart?\n')
         if restart.lower() != 'yes':
             break
 
