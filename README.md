@@ -1,5 +1,6 @@
 ### Date created
-04 July 2020
+Project created on 04 July 2020
+Readme file created 25 July
 
 ### Project Title
 Bikeshare Python Project
