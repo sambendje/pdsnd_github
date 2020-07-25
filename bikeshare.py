@@ -250,7 +250,7 @@ def main():
         display_data = display_data.lower()
         print("Would you like to see 5 more lines of data ? Enter yes or no ")
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart?\n')
         if restart.lower() != 'yes':
             break
 
