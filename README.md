@@ -1,14 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
-##Sambendje testing
+04 July 2020
+
 ### Project Title
-Replace the Project Title
+Bikeshare Python Project
 
 ### Description
-Describe what your project is about and what it does
+Using python to understand U.S bikeshare data. Calculating statistics and building an interactive environment where a user chooses the data from 3 major cities in the United States—Chicago, New York City, and Washington.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+Washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+With assistance from https://stackoverflow.com/
