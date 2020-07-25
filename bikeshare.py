@@ -232,7 +232,7 @@ def main():
         print("Would you like to see 5 more lines of data ? Enter yes or no ")
         display_data = input()
         display_data = display_data.lower()
-        i = 5
+        i = 10
         while display_data != 'yes':
             break
             """ Display 5 lines of raw data for the user"""
